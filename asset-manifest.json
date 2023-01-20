@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dcarvajal99/Galeria-de-imagenes-con-react/static/css/main.cb6060e1.css",
+    "main.js": "/dcarvajal99/Galeria-de-imagenes-con-react/static/js/main.64b3940d.js",
+    "static/js/787.f32f77de.chunk.js": "/dcarvajal99/Galeria-de-imagenes-con-react/static/js/787.f32f77de.chunk.js",
+    "index.html": "/dcarvajal99/Galeria-de-imagenes-con-react/index.html",
+    "main.cb6060e1.css.map": "/dcarvajal99/Galeria-de-imagenes-con-react/static/css/main.cb6060e1.css.map",
+    "main.64b3940d.js.map": "/dcarvajal99/Galeria-de-imagenes-con-react/static/js/main.64b3940d.js.map",
+    "787.f32f77de.chunk.js.map": "/dcarvajal99/Galeria-de-imagenes-con-react/static/js/787.f32f77de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6060e1.css",
+    "static/js/main.64b3940d.js"
+  ]
+}
